@@ -1,1 +1,1 @@
-# E_Commerce_APP_6
+# E_Commerce-Connecting Small Scale industry to customers.
